@@ -1,21 +1,30 @@
 # 💫 Hi 👋, I'm Darshan
 🚀 Passionate SDE | ⚡ DevOps Enthusiast | 📊 Data Analytics Explorer | 🌏 From India
 
+- 🚀 **I’m currently working on:**
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** - 🌱 ** 
-  - Advanced **Python & SQL** for Data Analytics  
-  - **Power BI** & data visualization techniques  
-  - **Full-Stack Development** (Java, React, Node.js)  
-  - **DevOps Tools** (Docker, Kubernetes, CI/CD, GitHub Actions)  
-  - Basics of **Cloud (AWS & Azure)**  
+  - Developing and deploying full-stack applications using ⚛️ React.js, 🟢 Node.js, and 🍃 MongoDB  
+  - Exploring 🏗️ System Design, ⚙️ DevOps, and ☕ Java while gearing up for career opportunities 
+
+
+- 🌱 **I’m currently learning:**
+  - 🐍 Python & 🗄️ SQL for Data Analytics  
+  - 📊 Power BI & Data Visualization  
+  - 💻 Full-Stack Development (Java · React · Node.js)  
+  - ⚙️ DevOps Tools (Docker · Kubernetes · CI/CD · GitHub Actions)  
+  - ☁️ Cloud Basics (AWS · Azure)
+  - 📊 Data Structures & Algorithms (Dynamic Programming, Trees, Graphs)
+
 
 - 👯 **I’m looking to collaborate on:** Open-source projects, hackathons, or anything exciting!
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
+
+ 💬 **Ask me about:** 
+   - Python Programming & Data Analytics  
+   - Creating Dashboards and Visualizations with Power BI  
+   - DevOps Tools and Workflows (Docker, CI/CD, GitHub Actions)  
+
+
 - 📫 **How to reach me:** darshanboraganve2003@gmail.com
-- 😄 **Pronouns:** 
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Darshan Boraganve ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshanboraganve2003@gmail.com) 
@@ -31,19 +40,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=DarshanBoraganve&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanBoraganve&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🐍 GitHub Contribution Snake Game
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ## 🧰 Tools & Platforms
 
 - VS Code / Git / GitHub / Postman
-- [Other tools you love]
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 -->
 ⭐️ From [Darshan Boraganve](https://github.com/DarshanBoraganve)
 
